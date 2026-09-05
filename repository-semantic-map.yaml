@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/eventxperience-portal
+purpose: Event experience and participant portal experiment.
+status: vertical-experiment
+canonical_parent: null
+capabilities: [events, portal, participant-experience]
+vertical: events-culture
+omniframez_role: vertical-experiment
+evidence: {confidence: inferred, sources: [repository-name]}
+harvest_action: inspect-and-harvest-unique-capabilities
+relations:
+  - contributes_to: event experience capabilities
